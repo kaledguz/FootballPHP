@@ -1,0 +1,1 @@
+<h1 class="title is-1 is-spaced text-center mt-[20px]">Accueil</h1>
